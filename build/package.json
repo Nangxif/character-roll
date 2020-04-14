@@ -1,0 +1,39 @@
+{
+  "name": "character-roll",
+  "version": "0.1.0",
+  "description": "一个尽可能让开发者自定义的字符滚动插件",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline",
+    "lib": "webpack"
+  },
+  "main":"dist/character-roll.min.js",
+  "homepage": "https://github.com/Nangxif/character-roll/build#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nangxif/character-roll.git"
+  },
+  "keywords": [
+    "character","roll"
+  ],
+  "private":false,
+  "author": "Nangxif",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.4.2",
+    "style-loader": "^1.1.3",
+    "vue-loader": "^15.9.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "ios >= 9",
+    "android >= 5",
+    "chrome >= 36",
+    "not dead",
+    "not op_mini all"
+  ]
+}
