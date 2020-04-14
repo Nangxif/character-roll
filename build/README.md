@@ -59,3 +59,8 @@ components: {
 3.定时轮询接口获取数据，然后动态显示在页面上，这些数据有可能是XX活动参与人数，报名人数等。
 
 ## 六、demo
+
+https://nangxif.github.io/character-roll/dist/index.html
+
+PS:[官网]: https://nangxif.github.io/character-roll/build/index.html
+
