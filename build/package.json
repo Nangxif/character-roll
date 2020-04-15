@@ -1,6 +1,6 @@
 {
   "name": "character-roll",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "一个尽可能让开发者自定义的字符滚动插件",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
