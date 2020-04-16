@@ -66,5 +66,5 @@ components: {
 
 https://nangxif.github.io/character-roll/dist/index.html
 
-PS:[官网]: https://nangxif.github.io/character-roll/build/index.html
+PS:[官网](https://nangxif.github.io/character-roll/build/index.html)
 
