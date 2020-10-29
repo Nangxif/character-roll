@@ -64,7 +64,7 @@ components: {
 
 ## 六、demo
 
-https://nangxif.github.io/character-roll/dist/index.html
+https://nangxif.github.io/character-roll/dist/index.html#/Index
 
 PS:[官网](https://nangxif.github.io/character-roll/build/index.html)
 
